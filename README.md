@@ -1,5 +1,6 @@
-# Texas-Hold-em
-Texas Hold'em poker game 
+# Texas-Hold-em 
+
+This program recreates the popular poker variant "Texas Hold'em"
 
 What has been accomplished so far: 
     1. A user is prompted to input X amount of players.

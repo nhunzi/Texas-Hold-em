@@ -13,7 +13,7 @@ Bugs: I am working on writing the code for two different scenarios.
     2. Two or more players have a flush and need to determine whos flush is better. 
       
 Next steps: 
-    1. I would like to make this a user-driven game with betting rounds and keeping track of chip totals for each player. 
+    1. Make this a user-driven game with betting rounds and keeping track of chip totals for each player. 
     2. Create a GUI for the game. 
     3. Create an automated bot that the user can play against. 
     4. Use machine learning to train the bot to perform better and have the user able to adjust its difficulty setting. 
